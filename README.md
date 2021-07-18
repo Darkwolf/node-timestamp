@@ -24,7 +24,7 @@ const now = new Timestamp()
   millisecond: 999,
   microsecond: 999,
   nanosecond: 999
-})}` // => 'P1Y1Q1M1W1DT23H59M59.999999999S'
+})}` // => '2021-07-13T23:59:59.999999999Z'
 ```
 ## [API Documentation](https://github.com/Darkwolf/node-timestamp/blob/master/docs/API.md)
 ## Contact Me
