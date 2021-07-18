@@ -1,0 +1,38 @@
+{
+  "name": "@darkwolf/timestamp",
+  "version": "1.0.0",
+  "description": "Timestamp",
+  "type": "module",
+  "main": "./lib/index.cjs",
+  "exports": {
+    "import": "./lib/index.mjs",
+    "require": "./lib/index.cjs"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darkwolf/node-timestamp.git"
+  },
+  "keywords": [
+    "timestamp",
+    "unix",
+    "date",
+    "duration",
+    "time"
+  ],
+  "author": "Pavel Wolf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Darkwolf/node-timestamp/issues"
+  },
+  "homepage": "https://github.com/Darkwolf/node-timestamp#readme",
+  "dependencies": {
+    "@darkwolf/duration": "^1.1.1",
+    "@darkwolf/primordials": "^1.2.1"
+  }
+}
