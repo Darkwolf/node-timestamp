@@ -1,6 +1,6 @@
 {
   "name": "@darkwolf/timestamp",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Timestamp",
   "type": "module",
   "main": "./lib/index.cjs",
@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/Darkwolf/node-timestamp#readme",
   "dependencies": {
-    "@darkwolf/duration": "^1.1.1",
+    "@darkwolf/duration": "^1.1.2",
     "@darkwolf/primordials": "^1.2.1"
   }
 }
