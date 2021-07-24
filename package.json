@@ -1,6 +1,6 @@
 {
   "name": "@darkwolf/timestamp",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Timestamp",
   "type": "module",
   "main": "./lib/index.cjs",
